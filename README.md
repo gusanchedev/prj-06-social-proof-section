@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [@FrontendMentor.io](https://your-solution-url.com)
+- Live Site URL: [@Vercel](https://prj-06-social-proof-section.vercel.app/)
 
 ## My process
 
