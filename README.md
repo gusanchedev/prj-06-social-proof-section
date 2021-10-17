@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [@FrontendMentor.io](https://your-solution-url.com)
+- Solution URL: [@FrontendMentor.io](https://www.frontendmentor.io/solutions/social-proof-section-component-with-html-and-css-nMjTAZARV)
 - Live Site URL: [@Vercel](https://prj-06-social-proof-section.vercel.app/)
 
 ## My process
@@ -45,32 +45,26 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Using multiple background images:
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
+body {
+  font-size: 15px;
+  font-family: 'Spartan', sans-serif;
+  background-image: url("/images/bg-pattern-top-desktop.svg"), url("/images/bg-pattern-bottom-desktop.svg");
+  background-repeat: no-repeat, no-repeat;
+  background-position: top 0 left 0px, bottom 200px right 50px;
+  background-size: 100%, 100%;
 }
 ```
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Many few projects ahead I will try Tailwindcss and Vite.js.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [CSS Basics: Using Multiple Backgrounds](https://css-tricks.com/css-basics-using-multiple-backgrounds/) - With CSS, you can control the background of elements. You can set a background-color to fill it with a solid color, a background-image to fill it with (you guessed it) an image, or even both.
 
 ## Author
 
